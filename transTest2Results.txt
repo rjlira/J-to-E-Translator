@@ -1,0 +1,31 @@
+Script started on Wed 11 Dec 2019 09:40:22 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ g++ translator.cexitg++ translator.c[K ./a.out
+Enter the input file name: partCtest2
+Display trace messages? (y/n): 
+y
+Processing <story>
+
+Processing <s>
+Scanner called using word: soshite
+Matched CONNECTOR
+Processing <noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: rika
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: desu
+Processing <be>
+Matched IS
+Scanner called using word: ne
+
+SYNTAX ERROR: expected PERIOD but found ne
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:40:44 PM PST

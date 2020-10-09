@@ -1,0 +1,17 @@
+Script started on Wed 11 Dec 2019 09:42:03 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ g++ translator.cexit./a.out
+Enter the input file name: partCtest5
+Display trace messages? (y/n): 
+y
+Processing <story>
+
+Processing <s>
+Scanner called using word: wa
+Processing <noun>
+
+SYNTAX ERROR: unexpected wa found in noun
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:42:25 PM PST

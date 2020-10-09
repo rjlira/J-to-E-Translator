@@ -1,0 +1,193 @@
+Script started on Wed 11 Dec 2019 09:07:35 PM PST
+]0;lira012@empress:~/CS421Progs/ScannerFiles [?1034h[lira012@empress ScannerFiles]$ ex./a.oug++ scanner.cpexitg++ scanner.cpp
+]0;lira012@empress:~/CS421Progs/ScannerFiles [lira012@empress ScannerFiles]$ g++ scanner.cpexit./a.out
+Enter the input file name: scannertest2
+Type is:WORD1
+Word is:daigaku
+LEXICAL ERROR: college is not a valid token
+Type is:ERROR
+Word is:college
+Type is:WORD1
+Word is:kurasu
+LEXICAL ERROR: class is not a valid token
+Type is:ERROR
+Word is:class
+Type is:WORD1
+Word is:hon
+LEXICAL ERROR: book is not a valid token
+Type is:ERROR
+Word is:book
+Type is:WORD1
+Word is:tesuto
+LEXICAL ERROR: test is not a valid token
+Type is:ERROR
+Word is:test
+Type is:WORD1
+Word is:ie
+LEXICAL ERROR: home* is not a valid token
+Type is:ERROR
+Word is:home*
+Type is:WORD1
+Word is:isu
+LEXICAL ERROR: chair is not a valid token
+Type is:ERROR
+Word is:chair
+Type is:WORD1
+Word is:seito
+LEXICAL ERROR: student is not a valid token
+Type is:ERROR
+Word is:student
+Type is:WORD1
+Word is:sensei
+LEXICAL ERROR: teacher is not a valid token
+Type is:ERROR
+Word is:teacher
+Type is:WORD1
+Word is:tomodachi
+LEXICAL ERROR: friend is not a valid token
+Type is:ERROR
+Word is:friend
+Type is:WORD1
+Word is:jidoosha
+LEXICAL ERROR: car is not a valid token
+Type is:ERROR
+Word is:car
+Type is:WORD1
+Word is:gyuunyuu
+LEXICAL ERROR: milk is not a valid token
+Type is:ERROR
+Word is:milk
+Type is:WORD1
+Word is:sukiyaki
+Type is:WORD1
+Word is:tenpura
+Type is:WORD1
+Word is:sushi
+Type is:WORD1
+Word is:biiru
+LEXICAL ERROR: beer is not a valid token
+Type is:ERROR
+Word is:beer
+Type is:WORD1
+Word is:sake
+Type is:WORD1
+Word is:tokyo
+Type is:WORD1
+Word is:kyuushuu
+LEXICAL ERROR: Osaka is not a valid token
+Type is:ERROR
+Word is:Osaka
+Type is:WORD1
+Word is:choucho
+LEXICAL ERROR: butterfly is not a valid token
+Type is:ERROR
+Word is:butterfly
+Type is:WORD1
+Word is:an
+Type is:WORD1
+Word is:idea
+Type is:WORD1
+Word is:yasashii
+LEXICAL ERROR: easy is not a valid token
+Type is:ERROR
+Word is:easy
+Type is:WORD1
+Word is:muzukashii
+LEXICAL ERROR: difficult is not a valid token
+Type is:ERROR
+Word is:difficult
+Type is:WORD1
+Word is:ureshii
+LEXICAL ERROR: pleased is not a valid token
+Type is:ERROR
+Word is:pleased
+Type is:WORD1
+Word is:shiawase
+LEXICAL ERROR: happy is not a valid token
+Type is:ERROR
+Word is:happy
+Type is:WORD1
+Word is:kanashii
+LEXICAL ERROR: sad is not a valid token
+Type is:ERROR
+Word is:sad
+Type is:WORD1
+Word is:omoi
+LEXICAL ERROR: heavy is not a valid token
+Type is:ERROR
+Word is:heavy
+Type is:WORD1
+Word is:oishii
+LEXICAL ERROR: delicious is not a valid token
+Type is:ERROR
+Word is:delicious
+Type is:WORD1
+Word is:tennen
+LEXICAL ERROR: natural is not a valid token
+Type is:ERROR
+Word is:natural
+Type is:WORD2
+Word is:nakI
+LEXICAL ERROR: cry is not a valid token
+Type is:ERROR
+Word is:cry
+Type is:WORD2
+Word is:ikI
+LEXICAL ERROR: go* is not a valid token
+Type is:ERROR
+Word is:go*
+Type is:WORD2
+Word is:tabE
+LEXICAL ERROR: eat is not a valid token
+Type is:ERROR
+Word is:eat
+Type is:WORD2
+Word is:ukE
+LEXICAL ERROR: take* is not a valid token
+Type is:ERROR
+Word is:take*
+Type is:WORD2
+Word is:kakI
+LEXICAL ERROR: write is not a valid token
+Type is:ERROR
+Word is:write
+Type is:WORD2
+Word is:yomI
+LEXICAL ERROR: read is not a valid token
+Type is:ERROR
+Word is:read
+Type is:WORD2
+Word is:nomI
+LEXICAL ERROR: drink is not a valid token
+Type is:ERROR
+Word is:drink
+Type is:WORD2
+Word is:agE
+LEXICAL ERROR: give is not a valid token
+Type is:ERROR
+Word is:give
+Type is:WORD2
+Word is:moraI
+LEXICAL ERROR: receive is not a valid token
+Type is:ERROR
+Word is:receive
+Type is:WORD2
+Word is:butsI
+LEXICAL ERROR: hit is not a valid token
+Type is:ERROR
+Word is:hit
+Type is:WORD2
+Word is:kerI
+LEXICAL ERROR: kick is not a valid token
+Type is:ERROR
+Word is:kick
+Type is:WORD2
+Word is:shaberI
+LEXICAL ERROR: talk is not a valid token
+Type is:ERROR
+Word is:talk
+End of file is encountered.
+]0;lira012@empress:~/CS421Progs/ScannerFiles [lira012@empress ScannerFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:07:54 PM PST

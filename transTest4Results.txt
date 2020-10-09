@@ -1,0 +1,26 @@
+Script started on Wed 11 Dec 2019 09:41:36 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ g++ translator.cexit./a.oug++ translator.c[11P./a.out
+Enter the input file name: partCtest4
+Display trace messages? (y/n): 
+y
+Processing <story>
+
+Processing <s>
+Scanner called using word: watashi
+Processing <noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: rika
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: mashita
+
+SYNTAX ERROR: unexpected mashita found in afterNoun
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:41:57 PM PST

@@ -1,0 +1,21 @@
+Script started on Wed 11 Dec 2019 09:40:49 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ ex./a.oug++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ g++ translator.cexitg++ translator.c[K  ./a.out
+Enter the input file name: partCtest3
+Display trace messages? (y/n): 
+y
+Processing <story>
+
+Processing <s>
+Scanner called using word: dakara
+Matched CONNECTOR
+Processing <noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: de
+
+SYNTAX ERROR: expected SUBJECT but found de
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:41:31 PM PST

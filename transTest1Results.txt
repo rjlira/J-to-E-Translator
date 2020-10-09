@@ -1,0 +1,169 @@
+Script started on Wed 11 Dec 2019 09:39:44 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ g++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ ./a.out
+Enter the input file name: partCtest1
+Display trace messages? (y/n): 
+y
+Processing <story>
+
+Processing <s>
+Scanner called using word: watashi
+Processing <noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: rika
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: desu
+Processing <be>
+Matched IS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: watashi
+Processing <s>
+Processing <noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: sensei
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: desu
+Processing <be>
+Matched IS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: rika
+Processing <s>
+Processing <noun>
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: gohan
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: o
+Matched OBJECT
+Processing <after_object>
+Scanner called using word: tabE
+Processing <verb>
+Matched WORD2
+Processing <tense>
+Scanner called using word: masu
+Matched VERB
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: watashi
+Processing <s>
+Processing <noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: tesuto
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: o
+Matched OBJECT
+Processing <after_object>
+Scanner called using word: seito
+Processing <noun>
+Matched WORD1
+Scanner called using word: ni
+Matched DESTINATION
+Processing <verb>
+Scanner called using word: agE
+Matched WORD2
+Processing <tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: shikashi
+Processing <s>
+Matched CONNECTOR
+Processing <noun>
+Scanner called using word: seito
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: yorokobI
+Processing <verb>
+Matched WORD2
+Processing <tense>
+Scanner called using word: masendeshita
+Matched VERBPASTNEG
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: dakara
+Processing <s>
+Matched CONNECTOR
+Processing <noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: kanashii
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: deshita
+Processing <be>
+Matched WAS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: soshite
+Processing <s>
+Matched CONNECTOR
+Processing <noun>
+Scanner called using word: rika
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: toire
+Processing <noun>
+Matched WORD1
+Processing <after_noun>
+Scanner called using word: ni
+Matched DESTINATION
+Processing <verb>
+Scanner called using word: ikI
+Matched WORD2
+Processing <tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: rika
+Processing <s>
+Processing <noun>
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <after_subject>
+Scanner called using word: nakI
+Processing <verb>
+Matched WORD2
+Processing <tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: eofm
+
+Successfully parsed <story>.
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:40:15 PM PST

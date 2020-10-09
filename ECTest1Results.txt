@@ -1,0 +1,14 @@
+Script started on Wed 11 Dec 2019 09:57:40 PM PST
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [?1034h[lira012@empress TranslatorFiles]$ g++ translator.cpp
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ ./a.out
+Enter the input file name: partCtest1
+Display trace messages? (y/n): 
+n
+Processing <story>
+
+
+Successfully parsed <story>.
+]0;lira012@empress:~/CS421Progs/TranslatorFiles [lira012@empress TranslatorFiles]$ exit
+exit
+
+Script done on Wed 11 Dec 2019 09:58:04 PM PST
